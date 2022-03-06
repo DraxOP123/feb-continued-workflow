@@ -4,6 +4,7 @@ feb 23 4 hour  wednesday
 feb 24 4 + 7.5 hour thursday
 feb 25 4 + 7.5 hour friday
 feb 7.5 hour saturday
+This week 869.5
 feb 27 off
 feb 28 5+ 7 hour monday 
 feb 29 5 + 7 hour tuesday
